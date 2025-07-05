@@ -23,6 +23,8 @@ A simple multiplayer Pong game built using JavaFX and Java sockets.
 
 - Download the JavaFX SDK from [https://openjfx.io/](https://openjfx.io/)
 - Unzip and place in the root project folder or in a convenient location
+  
+If you have different version or location of javafx-sdk change --module-path according to yours
 
 ### 2. Compile project
 
